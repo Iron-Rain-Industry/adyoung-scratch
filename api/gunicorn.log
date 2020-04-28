@@ -1,0 +1,76 @@
+[2020-04-28 14:13:41 +1000] [3221] [INFO] Starting gunicorn 20.0.4
+[2020-04-28 14:13:41 +1000] [3221] [INFO] Listening at: http://127.0.0.1:8001 (3221)
+[2020-04-28 14:13:41 +1000] [3221] [INFO] Using worker: sync
+[2020-04-28 14:13:41 +1000] [3223] [INFO] Booting worker with pid: 3223
+[2020-04-28 14:13:41 +1000] [3224] [INFO] Booting worker with pid: 3224
+[2020-04-28 14:13:41 +1000] [3225] [INFO] Booting worker with pid: 3225
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /favicon.ico
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/css/bootstrap.min.css
+Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+Not Found: /static/rest_framework/css/prettify.css
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/css/default.css
+Not Found: /static/rest_framework/js/jquery-3.4.1.min.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+Not Found: /static/rest_framework/js/ajax-form.js
+Not Found: /static/rest_framework/js/csrf.js
+Not Found: /static/rest_framework/js/bootstrap.min.js
+Not Found: /static/rest_framework/js/prettify-min.js
+Not Found: /static/rest_framework/js/default.js
+[2020-04-28 14:21:00 +1000] [3221] [INFO] Handling signal: term
+[2020-04-28 04:21:00 +0000] [3223] [INFO] Worker exiting (pid: 3223)
+[2020-04-28 04:21:00 +0000] [3224] [INFO] Worker exiting (pid: 3224)
+[2020-04-28 04:21:00 +0000] [3225] [INFO] Worker exiting (pid: 3225)
+[2020-04-28 14:21:00 +1000] [3221] [INFO] Shutting down: Master
+[2020-04-28 14:21:00 +1000] [3366] [INFO] Starting gunicorn 20.0.4
+[2020-04-28 14:21:00 +1000] [3366] [INFO] Listening at: http://127.0.0.1:8001 (3366)
+[2020-04-28 14:21:00 +1000] [3366] [INFO] Using worker: sync
+[2020-04-28 14:21:00 +1000] [3368] [INFO] Booting worker with pid: 3368
+[2020-04-28 14:21:01 +1000] [3369] [INFO] Booting worker with pid: 3369
+[2020-04-28 14:21:01 +1000] [3370] [INFO] Booting worker with pid: 3370
