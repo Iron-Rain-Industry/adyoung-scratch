@@ -22,9 +22,13 @@ from api.tracking import views as tracking_views
 tracking_router = routers.DefaultRouter()
 tracking_router.register(r'users', tracking_views.UserViewSet)
 tracking_router.register(r'groups', tracking_views.GroupViewSet)
+tracking_router.register(r'set', tracking_views.SetViewSet)
+tracking_router.register(r'workout', tracking_views.WorkoutViewSet)
+tracking_router.register(r'exercise', tracking_views.ExerciseViewSet)
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include(tracking_router.urls)),
     path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+    
 ]

@@ -1,6 +1,10 @@
 # API
 The API is written using the Django Rest Framework. 
 
+## Setting up the Virtual Environment 
+
+To activate the virtual environment run `venv/Scripts/activate` from the root directory. 
+
 ## Set up the Django Application 
 
 Create the project: `django-admin startproject api`

@@ -7,4 +7,4 @@ Create the application with: `cordova create ux`
 
 Add the Electron platform: `cordova platform add electron`
 
-To test the application: `cordova run electron --nobuild` 
+To test the application: `cordova run electron --nobuild`
